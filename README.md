@@ -1,3 +1,4 @@
+
 Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
 
 Experiment: Develop a comprehensive report for the following exercises:
@@ -64,6 +65,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+[PROMPT LAB1.pdf](https://github.com/user-attachments/files/28658563/PROMPT.LAB1.pdf)
 
 
 Result:
